@@ -1,0 +1,13 @@
+{
+  "name": "test_jekyll_4_tw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:/emcoding/test_jekyll_4_tw.git",
+  "author": "Maud de Vries <emcoding@pm.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}
