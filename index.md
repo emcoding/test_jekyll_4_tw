@@ -17,7 +17,7 @@ Start developing your Jekyll website.
 3. third listitem
 
 
-[prose example]({% post_url 2021-09-25-example %})
+[//]: # ([prose example]&#40;{% post_url 2021-09-25-example %}&#41;)
 
  ```rb
  def awesome
