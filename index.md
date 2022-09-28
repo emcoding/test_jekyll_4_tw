@@ -9,6 +9,8 @@ Start developing your Jekyll website.
 
 {{ page.title }}
 
+[prose example]({% post_url 2021-09-25-example %})
+
 
 **bold**
 
